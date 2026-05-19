@@ -10,3 +10,5 @@ updates:
         update-types: ["version-update:semver-major"]
       - dependency-name: "Umbraco.Cms.*"
         update-types: ["version-update:semver-major"]
+      - dependency-name: "Clean"
+        update-types: ["version-update:semver-major"]
